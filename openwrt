@@ -1,6 +1,0 @@
-vless://568b120e-ac18-48f7-c3fb-bbead9c2cd64@jp.white-paper.xyz:80?encryption=none&security=none&type=ws&path=%2Fcypcpycy80#CYP-JP
-vless://1ec5c12b-df6a-4855-e1a0-7895ebb259e5@d1sq621bd8ralb.cloudfront.net:443?encryption=none&security=tls&sni=d1sq621bd8ralb.cloudfront.net&type=ws&path=%2Fcypcpycy443#CYP-JP-SSL
-vless://77ab3230-9291-4c15-a27e-2db956deaca4@d1fl1vij30n2it.cloudfront.net:80?encryption=none&security=none&type=ws&path=%2Fray80#CYP-SG
-vless://4b6eca51-467c-4234-8f86-6fc08ae99cd9@d1fl1vij30n2it.cloudfront.net:443?encryption=none&security=tls&sni=d1fl1vij30n2it.cloudfront.net&type=ws&path=%2Fcypcpycy#CYP-SG-FLT
-vless://3ca2225b-85e8-4d41-dc84-f6af815aeabb@d33vyxdcl1hd65.cloudfront.net:80?encryption=none&security=none&type=ws&path=%2Fcypcpycy80#CYP-SG-MU
-vless://47d359a4-806d-483a-858e-b0514a855360@d33vyxdcl1hd65.cloudfront.net:443?encryption=none&security=tls&sni=d33vyxdcl1hd65.cloudfront.net&type=ws&path=%2Fcypcpycy443#CYP-SG-MU-SSL
